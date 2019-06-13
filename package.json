@@ -1,0 +1,23 @@
+{
+  "name": "jitsi-meet-puppeteer",
+  "version": "1.0.0",
+  "description": "Jitsi Meet testing with puppeteer",
+  "main": "call.js",
+  "dependencies": {
+    "puppeteer-core": "^1.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpolitis/jitsi-meet-puppeteer.git"
+  },
+  "author": "George Politis",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/gpolitis/jitsi-meet-puppeteer/issues"
+  },
+  "homepage": "https://github.com/gpolitis/jitsi-meet-puppeteer#readme"
+}
